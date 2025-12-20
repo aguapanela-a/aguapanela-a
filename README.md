@@ -2,5 +2,8 @@
 **estudiante de ingeniería de sistmeas**
 **Universidad Distrital Francisco José De Caldas**  
 
-### ADADADdas
+### perfil
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/aguapanela-a/aguapanela-a)
+
+### mi primer repo
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/aguapanela-a/miPrimerRepo)
