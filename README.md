@@ -1,4 +1,6 @@
 ## Hi there 👋
 **estudiante de ingeniería de sistmeas**
 **Universidad Distrital Francisco José De Caldas**  
-no sé hacer un culo xd
+### intagram
+[instagram](https://www.instagram.com/ericksbpe/)
+### Aron
