@@ -8,3 +8,6 @@
 
 
 ### :zap:  Actividad reciente
+<!--START_SECTION:activvity-->
+
+<!--END_SECTION:activvity-->
