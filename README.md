@@ -10,10 +10,10 @@
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
-2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
-3. ❗️ Opened issue [#1](https://github.com/aguapanela-a/cursoPython/issues/1) in [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
-4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
-5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
+2. ❗️ Opened issue [#3](https://github.com/aguapanela-a/cursoPython/issues/3) in [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
+3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
+4. ✔️ Closed issue [#1](https://github.com/aguapanela-a/cursoPython/issues/1) in [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
+5. 💪 Opened PR [#2](undefined) in [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
