@@ -13,7 +13,7 @@
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
-5. ❗️ Opened issue [#9](https://github.com/aguapanela-a/cursoPython/issues/9) in [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
+5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
