@@ -10,9 +10,9 @@
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
-2. ❗️ Opened issue [#1](https://github.com/aguapanela-a/CursoJava/issues/1) in [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
-3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
-4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
+2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+4. ❗️ Opened issue [#1](https://github.com/aguapanela-a/CursoJava/issues/1) in [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
 <!--RECENT_ACTIVITY:end-->
 
