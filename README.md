@@ -13,7 +13,7 @@
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
-5. ❗️ Opened issue [#10](https://github.com/aguapanela-a/CursoJava/issues/10) in [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
