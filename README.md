@@ -9,11 +9,11 @@
 
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+1. ❗️ Opened issue [#13](https://github.com/aguapanela-a/CursoJava/issues/13) in [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
-3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+3. 💪 Opened PR [#12](undefined) in [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
-5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+5. ✔️ Closed issue [#10](https://github.com/aguapanela-a/CursoJava/issues/10) in [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
