@@ -9,7 +9,7 @@
 
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
+1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cursoPython](https://github.com/aguapanela-a/cursoPython)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CursoJava](https://github.com/aguapanela-a/CursoJava)<br>
