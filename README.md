@@ -9,9 +9,9 @@
 
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
+3. ⭐ Starred [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 <!--RECENT_ACTIVITY:end-->
