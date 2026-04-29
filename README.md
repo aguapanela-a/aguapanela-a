@@ -9,7 +9,7 @@
 
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/HolaMundo-Django](https://github.com/aguapanela-a/HolaMundo-Django)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
