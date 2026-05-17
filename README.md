@@ -9,8 +9,8 @@
 
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Frontend](https://github.com/aguapanela-a/CinePacho-Frontend)<br>
-2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Frontend](https://github.com/aguapanela-a/CinePacho-Frontend)<br>
+1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Hotel-Management-ACM](https://github.com/aguapanela-a/Hotel-Management-ACM)<br>
+2. 💪 Opened PR [#1](undefined) in [aguapanela-a/Hotel-Management-ACM](https://github.com/aguapanela-a/Hotel-Management-ACM)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Frontend](https://github.com/aguapanela-a/CinePacho-Frontend)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Frontend](https://github.com/aguapanela-a/CinePacho-Frontend)<br>
 5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Frontend](https://github.com/aguapanela-a/CinePacho-Frontend)<br>
