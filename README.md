@@ -4,14 +4,12 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 
 ---
 
-### 🚀 Sobre mí
 
-- 🧠 Actualmente me especializo en el desarrollo Backend utilizando **Java** y **Spring Boot**, mientras expando mis habilidades en el Frontend con **React** y **TypeScript**.
-- 🏗️ Enfocado firmemente en la calidad de software, las buenas prácticas de diseño (UML/ISO) y arquitecturas escalables como los **monolitos modulares**.
-- 🛠️ En mi tiempo libre, disfruto del auto-hospedaje (self-hosting): configuro hardware antiguo como servidores caseros usando **Linux** y gestiono despliegues mediante **Docker**.
-- 💪 Comprometido con el entrenamiento mental y la mejora constante en la resolución de problemas lógicos complejos.
+-  Actualmente me especializo en el desarrollo Backend utilizando **Java**, **Spring Boot** y **Fast API** de Python, mientras expando mis habilidades en el Frontend con **React**, **TypeScript**, **JavaScript** y **Angular**.
+-  Enfocado firmemente en la calidad de software, las buenas prácticas de diseño (UML/ISO) y arquitecturas escalables como los **monolitos modulares**.
+-  En mi tiempo libre, disfruto del auto-hospedaje (self-hosting): configuro hardware antiguo como servidores caseros usando **Linux** y gestiono despliegues mediante **Docker**.
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 | Capa | herramientas / Tech Stack |
 | :--- | :--- |
@@ -19,10 +17,10 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 | **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
 | **DevOps & OS** | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
-### 📌 Proyectos Destacados (¡Te invito a ver mis repositorios fijados!)
+###  Proyectos Destacados
 
-- 🎬 **CinePacho:** Proyecto integral diseñado bajo una arquitectura de monolito modular, aplicando patrones de diseño avanzados (Factory, Registry) para asegurar alta mantenibilidad y desacoplamiento.
-- 🏪 **Tienda Erick - Backend:** Aplicación real enfocada en resolver problemas de lógica de negocio, optimizando el control y la automatización de procesos para un comercio minorista familiar.
+-  **CinePacho:** Proyecto integral diseñado bajo una arquitectura de monolito modular, aplicando patrones de diseño avanzados (Factory, Registry) para asegurar alta mantenibilidad y desacoplamiento.
+-  **Tienda Erick - Backend:** Aplicación real enfocada en resolver problemas de lógica de negocio, optimizando el control y la automatización de procesos para un comercio minorista familiar.
 
 ---
 
