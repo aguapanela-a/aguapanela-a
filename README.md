@@ -26,10 +26,10 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
-2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
-3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
+4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
 5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
