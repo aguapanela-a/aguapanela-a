@@ -28,9 +28,9 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
-4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
-5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/tienda-Erick-backend](https://github.com/aguapanela-a/tienda-Erick-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/aguapanela-a](https://github.com/aguapanela-a/aguapanela-a)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
