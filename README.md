@@ -28,8 +28,8 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Tienda_Frontend](https://github.com/aguapanela-a/Tienda_Frontend)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Tienda_Frontend](https://github.com/aguapanela-a/Tienda_Frontend)<br>
-3. 🔱 Forked [aguapanela-a/Tienda_Frontend](https://github.com/aguapanela-a/Tienda_Frontend) from [NicolasKappuru/Tienda_Frontend](https://github.com/NicolasKappuru/Tienda_Frontend)<br>
-4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Tienda_Frontend](https://github.com/aguapanela-a/Tienda_Frontend)<br>
+4. 🔱 Forked [aguapanela-a/Tienda_Frontend](https://github.com/aguapanela-a/Tienda_Frontend) from [NicolasKappuru/Tienda_Frontend](https://github.com/NicolasKappuru/Tienda_Frontend)<br>
 5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/CinePacho-Backend](https://github.com/aguapanela-a/CinePacho-Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
