@@ -27,7 +27,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Ezra3578/CienciasII](https://github.com/Ezra3578/CienciasII)<br>
-2. ⬆️ Pushed undefined commit(s) to [Ezra3578/CienciasII](https://github.com/Ezra3578/CienciasII)<br>
+2. 💪 Opened PR [#3](undefined) in [Ezra3578/CienciasII](https://github.com/Ezra3578/CienciasII)<br>
 3. ⬆️ Pushed undefined commit(s) to [Ezra3578/CienciasII](https://github.com/Ezra3578/CienciasII)<br>
 4. ⬆️ Pushed undefined commit(s) to [Ezra3578/CienciasII](https://github.com/Ezra3578/CienciasII)<br>
 5. ⬆️ Pushed undefined commit(s) to [Ezra3578/CienciasII](https://github.com/Ezra3578/CienciasII)<br>
