@@ -1,4 +1,4 @@
-#Soy Erick 👋
+# Soy Erick 👋
 
 Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas. Apasionado por la arquitectura de software, el desarrollo backend robusto y el ecosistema del self-hosting.
 
