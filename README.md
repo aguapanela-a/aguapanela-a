@@ -27,10 +27,10 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cloud-native-streaming-platform](https://github.com/aguapanela-a/cloud-native-streaming-platform)<br>
-2. ⬆️ Pushed undefined commit(s) to [NicolasKappuru/API-REST-LIBROS](https://github.com/NicolasKappuru/API-REST-LIBROS)<br>
-3. 🤝 Became collaborator on [NicolasKappuru/API-REST-LIBROS](https://github.com/NicolasKappuru/API-REST-LIBROS)<br>
-4. ⭐ Starred [EngAndres/ud-public](https://github.com/EngAndres/ud-public)<br>
-5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cloud-native-streaming-platform](https://github.com/aguapanela-a/cloud-native-streaming-platform)<br>
+2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/cloud-native-streaming-platform](https://github.com/aguapanela-a/cloud-native-streaming-platform)<br>
+3. ⬆️ Pushed undefined commit(s) to [NicolasKappuru/API-REST-LIBROS](https://github.com/NicolasKappuru/API-REST-LIBROS)<br>
+4. 🤝 Became collaborator on [NicolasKappuru/API-REST-LIBROS](https://github.com/NicolasKappuru/API-REST-LIBROS)<br>
+5. ⭐ Starred [EngAndres/ud-public](https://github.com/EngAndres/ud-public)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
