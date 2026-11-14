@@ -27,7 +27,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 ### :zap:  Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/gestor-comercio-al-por-menor](https://github.com/aguapanela-a/gestor-comercio-al-por-menor)<br>
-2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/API-REST-microservicios](https://github.com/aguapanela-a/API-REST-microservicios)<br>
+2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/gestor-comercio-al-por-menor](https://github.com/aguapanela-a/gestor-comercio-al-por-menor)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/API-REST-microservicios](https://github.com/aguapanela-a/API-REST-microservicios)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/API-REST-microservicios](https://github.com/aguapanela-a/API-REST-microservicios)<br>
 5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/API-REST-microservicios](https://github.com/aguapanela-a/API-REST-microservicios)<br>
