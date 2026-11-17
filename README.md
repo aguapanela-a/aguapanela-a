@@ -29,8 +29,8 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 1. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
-4. ❗️ Opened issue [#6](https://github.com/aguapanela-a/Rodar-Cuentas/issues/6) in [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
-5. ❗️ Opened issue [#5](https://github.com/aguapanela-a/Rodar-Cuentas/issues/5) in [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
+4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
+5. ❗️ Opened issue [#6](https://github.com/aguapanela-a/Rodar-Cuentas/issues/6) in [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
