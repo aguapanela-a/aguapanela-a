@@ -30,7 +30,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco Jos�
 2. ⬆️ Pushed undefined commit(s) to [aguapanela-a/gestor-comercio-al-por-menor](https://github.com/aguapanela-a/gestor-comercio-al-por-menor)<br>
 3. ⬆️ Pushed undefined commit(s) to [aguapanela-a/gestor-comercio-al-por-menor](https://github.com/aguapanela-a/gestor-comercio-al-por-menor)<br>
 4. ⬆️ Pushed undefined commit(s) to [aguapanela-a/gestor-comercio-al-por-menor](https://github.com/aguapanela-a/gestor-comercio-al-por-menor)<br>
-5. 💪 Opened PR [#9](undefined) in [aguapanela-a/Rodar-Cuentas](https://github.com/aguapanela-a/Rodar-Cuentas)<br>
+5. ⬆️ Pushed undefined commit(s) to [aguapanela-a/gestor-comercio-al-por-menor](https://github.com/aguapanela-a/gestor-comercio-al-por-menor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_SECTION:last_update-->
